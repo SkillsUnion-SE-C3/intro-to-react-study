@@ -10,6 +10,7 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 - [Why use framework for SPA](https://medium.com/@kennch/should-i-use-a-frontend-framework-to-develop-spa-fff1bbde6c29)
 - [What is MVC](https://medium.com/createdd-notes/understanding-mvc-architecture-with-react-6cd38e91fefd)
 - [Why and why not react](https://scotch.io/starters/react/react-popularity-and-when-not-to-use-react)
+- [Virtual DOM](https://youtu.be/dxz9HZ40h4I)
 
 ## Hands On Practical
 
@@ -29,7 +30,7 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
    Please write your answer here.
    ```
 
-3. Is React MVC? Give a reason to your answer.
+3. How Virtual DOM works and why is it faster than manipulate the actual DOM?
 
    ```
    Please write your answer here.

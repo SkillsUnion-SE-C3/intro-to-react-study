@@ -12,6 +12,7 @@ By the end of this, you should know:
 - React and its place in MVC
 - When should you use ReactJS
 - What are components and why we use them in React
+- Differences between Virtual DOM and the standard DOM
 
 By the end of this, you should be able to:
 
