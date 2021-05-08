@@ -1,38 +1,39 @@
 [<img src="assets/images/su-logo.png" alt="Skills Union Logo" height="80px" />](https://www.skillsunion.com/)
-# Lorem ipsum: Study
+
+# Intro to React: Study
 
 Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along with the provided resources to research and answer the [questions below](#questions).
 
 ## Required Reading
 
-- [Lorem ipsum dolor sit amet](#)
+- [What is SPA](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58)
+- [Why use framework for SPA](https://medium.com/@kennch/should-i-use-a-frontend-framework-to-develop-spa-fff1bbde6c29)
+- [What is MVC](https://medium.com/createdd-notes/understanding-mvc-architecture-with-react-6cd38e91fefd)
+- [Why and why not react](https://scotch.io/starters/react/react-popularity-and-when-not-to-use-react)
 
-## Optional Reading
+## Hands On Practical
 
-- [Lorem ipsum dolor sit amet](#)
-
+- Follow this [tutorial](https://www.w3schools.com/react/) and stops at React Components
 
 ## Questions
 
-1. Lorem ipsum dolor sit amet
+1. What are the differences between SPA and MPA?
 
-    ```
-    Please write your answer here.
-    ```
+   ```
+   Please write your answer here.
+   ```
 
-1. Write an example Lorem ipsum dolor sit amet:
+2. What is a MVC Framework?
 
-    ```js
-    /* Your Answer */
-    ```
+   ```
+   Please write your answer here.
+   ```
 
-1. Using a "Fist to Five", what is your comfort and clarity level?
+3. Is React MVC? Give a reason to your answer.
 
-    ```
-    Comfort: 
-
-    Clarity: 
-    ```
+   ```
+   Please write your answer here.
+   ```
 
 ### Response Guidelines
 
