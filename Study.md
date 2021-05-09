@@ -30,7 +30,7 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
    Please write your answer here.
    ```
 
-3. How Virtual DOM works and why is it faster than manipulate the actual DOM?
+3. How Virtual DOM works and why is it faster than manipulating the actual DOM?
 
    ```
    Please write your answer here.
