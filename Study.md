@@ -11,6 +11,7 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 - [What is MVC](https://medium.com/createdd-notes/understanding-mvc-architecture-with-react-6cd38e91fefd)
 - [Why and why not react](https://scotch.io/starters/react/react-popularity-and-when-not-to-use-react)
 - [Virtual DOM](https://youtu.be/dxz9HZ40h4I)
+- [What is JSX](https://reactjs.org/docs/introducing-jsx.html)
 
 ## Hands On Practical
 
