@@ -22,19 +22,21 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 1. What are the differences between SPA and MPA?
 
    ```
-   Please write your answer here.
+   Single page applications are an app that works in the browser that does not require page reloading. 
+   Multi page applications are applications that work in the traditional way, every change requires a reloading/rendering of the page. 
    ```
 
 2. What is a MVC Framework?
 
    ```
-   Please write your answer here.
+   This is a way of structuring your web application.
    ```
 
 3. How Virtual DOM works and why is it faster than manipulating the actual DOM?
 
    ```
-   Please write your answer here.
+   virtual dom is a representation of the js dom objects. The whole virtual dom gets updates then compares against the actual dom and updates those that have changes
+   It's faster because you are only changing those that need to be changes instead of reloading the whole dom again. 
    ```
 
 ### Response Guidelines
